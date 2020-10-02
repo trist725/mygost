@@ -11,5 +11,6 @@ my gost conf record
 * do 1/2/3/4 step to config
 * install gost client
 * config gost client with https
+* docker update --restart=always <CONTAINER ID>
 
 maybe run gost client as ss for v2rayN: `gost -L ss://aes-128-cfb:passcode@:localport -F 'https://USER:PASS@DOMAIN:PORT'`
